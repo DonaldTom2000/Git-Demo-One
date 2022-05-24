@@ -5,5 +5,7 @@ public class Person {
         System.out.println("我是人类");
 
         System.out.println("hello Master");
+
+        System.out.println("Hello test");
     }
 }
